@@ -8,9 +8,12 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "prepare": "husky"
   },
   "dependencies": {
+    "@nuxt/eslint": "^0.5.0",
     "nuxt": "^3.12.4",
     "vue": "latest"
   },
