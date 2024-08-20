@@ -1,0 +1,423 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "city": "Sapopema",
+      "state": "PR",
+      "active": true,
+
+      "announcer": {
+        "text": "Você e sua família sempre conectada e entretida.",
+        "links": [
+          {
+            "url": "https://sgpsap.franet.com.br/accounts/central",
+            "text": "Central do Assinante",
+            "icon": "Grip"
+          },
+
+          {
+            "url": "tel:+554335450101",
+            "text": "(43) 3545-0101",
+            "icon": "Phone"
+          },
+
+          {
+            "url": "https://www.instagram.com/franettelecom/",
+            "text": "@franet",
+            "icon": "Instagram"
+          }
+        ]
+      },
+
+      "footer": {
+        "copy": "© 2024 Franet Telecom. Todos os direitos reservados.",
+        "data": "Franet - CNPJ: 01.234.567/0001-89",
+        "socialNetworks": [
+          {
+            "icon": "Instagram",
+            "url": "https://www.instagram.com/franettelecom/"
+          }
+        ],
+        "sessions": [
+          {
+            "title": "Sobre Nós",
+            "links": [
+              {
+                "text": "Contato",
+                "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20falar%20com%20um%20atendente."
+              }
+            ]
+          },
+
+          {
+            "title": "Planos",
+            "links": [
+              {
+                "text": "Internet",
+                "url": "/planos"
+              },
+
+              {
+                "text": "Tv",
+                "url": "/franet-tv"
+              },
+
+              {
+                "text": "Móvel",
+                "url": "/franet-4g"
+              }
+            ]
+          },
+
+          {
+            "title": "Para Você",
+            "links": [
+              {
+                "text": "Indique um Amigo",
+                "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20indicar%20um%20amigo%20para%20contratar%20um%20plano%20da%20Franet."
+              },
+
+              {
+                "text": "2ª Via de Boleto",
+                "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20a%202%C2%AA%20via%20do%20meu%20boleto."
+              },
+
+              {
+                "text": "Atendimento via Whatsapp",
+                "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20falar%20com%20um%20atendente."
+              }
+            ]
+          }
+        ]
+      },
+
+      "features": [
+        {
+          "heading": "Instalação rápida",
+          "subheading": "Instalação em até 24 horas",
+          "icon": "Hourglass"
+        },
+
+        {
+          "heading": "Suporte 24 horas",
+          "subheading": "Suporte a todo momento",
+          "icon": "Headphones"
+        },
+
+        {
+          "heading": "Segurança",
+          "subheading": "Sua privacidade é prioridade",
+          "icon": "ShieldCheck"
+        },
+
+        {
+          "heading": "Velocidade",
+          "subheading": "Velocidade sem limites",
+          "icon": "Rocket"
+        }
+      ],
+
+      "plans": [
+        {
+          "id": "1",
+          "slug": "basic",
+          "speed": 100,
+          "type": "mega",
+          "price": 79.90,
+          "resources": [
+            "50 mega de velocidade de upload",
+            "Equipamentos de última geração"
+          ],
+          "button": {
+            "text": "Contratar",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20contratar%20o%20plano%20de%20internet%20de%20100%20Mbps."
+          }
+        },
+
+        {
+          "id": "2",
+          "slug": "medium",
+          "speed": 300,
+          "type": "mega",
+          "price": 99.90,
+          "resources": [
+            "50 mega de velocidade de upload",
+            "Equipamentos de última geração"
+          ],
+          "button": {
+            "text": "Contratar",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20contratar%20o%20plano%20de%20internet%20de%20300%20Mbps."
+          }
+        },
+
+        {
+          "id": "3",
+          "slug": "advanced",
+          "speed": 500,
+          "type": "mega",
+          "price": 129.90,
+          "resources": [
+            "50 mega de velocidade de upload",
+            "Equipamentos de última geração"
+          ],
+          "button": {
+            "text": "Contratar",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20contratar%20o%20plano%20de%20internet%20de%20500%20Mbps."
+          }
+        }
+      ],
+
+      "combo": {
+        "items": ["fibra", "móvel", "tv"],
+        "text": "Tenha todos os serviços da franet em um único plano!",
+        "button": {
+          "text": "Montar meu combo",
+          "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20montar%20meu%20combo%20de%20internet%20fibra,%20m%C3%B3vel%20e%20tv."
+        }
+      },
+
+      "services": [
+        {
+          "title": "Para Empresas",
+          "text": "Soluções especiais para sua empresa",
+          "button": {
+            "text": "Conheça",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20as%20solu%C3%A7%C3%B5es%20especiais%20para%20minha%20empresa."
+          }
+        },
+
+        {
+          "title": "Franet Tv",
+          "text": "Mais de 200 canais",
+          "button": {
+            "text": "Conheça",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20os%20planos%20de%20tv%20por%20assinatura."
+          }
+        },
+
+        {
+          "title": "Franet Móvel",
+          "text": "Somos também operadora de telefonia móvel.",
+          "button": {
+            "text": "Conheça",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20os%20planos%20de%20telefonia%20m%C3%B3vel."
+          }
+        }
+      ],
+
+      "mobile": {
+        "resources": [
+          "Abrir e acompanhar solicitações",
+          "Gerar boletos",
+          "Confirmar pagamentos",
+          "Verificar extrato de autenticação",
+          "Atualizar dados cadastrais",
+          "Ver serviços contratados",
+          "Acompanhar relatórios",
+          "Verificar informações de contrato"
+        ],
+
+        "android": "https://play.google.com/store/apps/details?id=com.franet",
+        "ios": "https://apps.apple.com/br/app/franet/id1530131234"
+      },
+
+      "support": {
+        "links": [
+          {
+            "url": "https://sgpsap.franet.com.br/accounts/central/login",
+            "text": "Central do Assinante",
+            "icon": "Grip"
+          },
+
+          {
+            "icon": "FileText",
+            "text": "2ª via de boleto",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20a%202%C2%AA%20via%20do%20meu%20boleto."
+          },
+
+          {
+            "icon": "MessageCircle",
+            "text": "Atendimento via whatsapp",
+            "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20falar%20com%20um%20atendente."
+          }
+        ]
+      },
+
+      "tvCTA": {
+        "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20os%20planos%20de%20tv%20por%20assinatura."
+      },
+
+      "tvResources": [
+        {
+          "title": "Variedade Premium",
+          "description": "Ao assinar a Franet TV, você ganha acesso instantâneo a uma variedade de canais, filmes, séries e esportes ao vivo. Tudo o que você ama assistir, em um único lugar."
+        },
+
+        {
+          "title": "Experiência Personalizada",
+          "description": "Assuma o controle, escolha e assista de acordo com seus interesses, proporcionando uma experiência única."
+        },
+
+        {
+          "title": "Streaming sem Limites",
+          "description": "Assine Franet TV e desfrute de streaming de conteúdo sem se preocupar com limites de dados."
+        }
+      ],
+
+      "tvDetails": [
+        {
+          "title": "Preço após o 12º mês",
+          "description": "Do 13º mês em diante, há um acréscimo de R$ 20 no valor do plano de 400 Mega."
+        },
+
+        {
+          "title": "Taxa de instalação",
+          "description": "Nos 12 primeiros meses serão cobrados R$ 25,00 de Taxa de Adesão, totalizando R$ 300,00 ao fim do período."
+        },
+
+        {
+          "title": "Equipamento",
+          "description": "O modem Wi-Fi e o decodificador da TV serão entregues em comodato."
+        },
+
+        {
+          "title": "1 ano de fidelidade",
+          "description": "Caso cancele antes, haverá uma multa rescisória de R$ 1.500 no plano de 400 Mega e de R$ 2.000 no plano de 1 Giga proporcional ao restante do período. Conheça as ofertas sem fidelidade."
+        },
+
+        {
+          "title": "Reajuste anual",
+          "description": "O valor mensal da oferta poderá, a critério da Oi, ser reajustada anualmente de acordo com a variação positiva do IGP-DI ou índice geral que o substitua."
+        }
+      ],
+
+      "movelCTA": {
+        "url": "https://wa.me/5543996058197?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20os%20planos%20de%20telefonia%20m%C3%B3vel."
+      },
+
+      "movelResources": [
+        {
+          "title": "Velocidade 4G Incrível",
+          "description": "Com a Franet 4G, você desfrutará de velocidades de internet incrivelmente rápidas. Baixe arquivos, transmita vídeos em HD e navegue na web sem atrasos. A velocidade 4G da Franet coloca o poder da internet em suas mãos."
+        },
+
+        {
+          "title": "Streaming sem Interrupções",
+          "description": "Desfrute de streaming de vídeo e música sem interrupções com a Franet 4G. A velocidade constante e confiável garante que você assista a filmes e séries sem buffer, proporcionando uma experiência de entretenimento imersiva."
+        },
+
+        {
+          "title": "Conexão Estável para o Trabalho Remoto",
+          "description": "Para aqueles que trabalham remotamente, a Franet 4G oferece uma conexão estável e confiável. Realize videoconferências, envie e-mails e acesse documentos com facilidade, onde quer que você esteja. Mantenha sua produtividade em movimento."
+        },
+
+        {
+          "title": "Segurança e Estabilidade",
+          "description": "A Franet 4G oferece uma conexão segura e estável para suas atividades online. Seja para transações financeiras, compras online ou simplesmente navegar com tranquilidade, nossa rede 4G garante a proteção de seus dados e uma experiência de internet sem interrupções."
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "city": "Figueira",
+      "state": "PR",
+      "active": false,
+
+      "announcer": {
+        "text": "Você e sua família sempre conectada e entretida."
+      },
+
+      "support": {
+        "links": [
+          {
+            "icon": "Phone",
+            "text": "Suporte",
+            "url": "tel:+554335472062"
+          },
+
+          {
+            "url": "https://franet.sgp.tsmx.com.br/central/",
+            "text": "Central do Assinante",
+            "icon": "Grip"
+          }
+        ]
+      },
+
+      "footer": {
+        "copy": "© 2024 Franet Telecom. Todos os direitos reservados.",
+        "data": "Franet - CNPJ: 01.234.567/0001-89"
+      }
+    },
+
+    {
+      "id": "3",
+      "city": "Curiúva",
+      "state": "PR",
+      "active": false,
+
+      "announcer": {
+        "text": "Você e sua família sempre conectada e entretida."
+      },
+
+      "support": {
+        "links": [
+          {
+            "icon": "Phone",
+            "text": "Suporte",
+            "url": "tel:+554335472062"
+          },
+
+          {
+            "url": "https://franet.sgp.tsmx.com.br/central/",
+            "text": "Central do Assinante",
+            "icon": "Grip"
+          }
+        ]
+      },
+
+      "footer": {
+        "copy": "© 2024 Franet Telecom. Todos os direitos reservados.",
+        "data": "Franet - CNPJ: 01.234.567/0001-89"
+      }
+    },
+
+    {
+      "id": "4",
+      "city": "Ponta Grossa",
+      "state": "PR",
+      "active": false,
+
+      "announcer": {
+        "text": "Você e sua família sempre conectada e entretida."
+      },
+
+      "support": {
+        "links": [
+          {
+            "icon": "FileText",
+            "text": "2ª via de boleto",
+            "url": "https://api.whatsapp.com/send?phone=5542933004300&text=Ol%C3%A1,%20estou%20no%20site,%20preciso%20de%20atendimento."
+          },
+
+          {
+            "icon": "MessageCircle",
+            "text": "Suporte",
+            "url": "https://api.whatsapp.com/send?phone=5542933004300&text=Ol%C3%A1,%20estou%20no%20site,%20preciso%20de%20atendimento."
+          },
+
+          {
+            "url": "https://franet.sgp.tsmx.com.br/central/",
+            "text": "Central do Assinante",
+            "icon": "Grip"
+          }
+        ]
+      },
+
+      "footer": {
+        "copy": "© 2024 Franet Telecom. Todos os direitos reservados.",
+        "data": "Franet - CNPJ: 01.234.567/0001-89"
+      }
+    }
+  ]
+}
