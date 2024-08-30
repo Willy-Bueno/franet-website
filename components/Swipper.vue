@@ -12,15 +12,11 @@ const modules = ref([Autoplay])
 const currentBannerIndex = ref(0)
 
 const DESKTOP_BANNERS = [
-  '/images/banner-desktop-1.png',
-  '/images/banner-desktop-2.png',
-  '/images/banner-desktop-3.png',
+  '/images/banner-desktop.png',
 ]
 
 const MOBILE_BANNERS = [
-  '/images/banner-mobile-1.png',
-  '/images/banner-mobile-2.png',
-  '/images/banner-mobile-3.png',
+  '/images/banner-mobile.png',
 ]
 
 const banners = computed(() => {
