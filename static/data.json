@@ -10,7 +10,7 @@
         "text": "Você e sua família sempre conectada e entretida.",
         "links": [
           {
-            "url": "https://sgpsap.franet.com.br/accounts/central",
+            "url": "https://sgpsap.franet.com.br/central",
             "text": "Central do Assinante",
             "icon": "Grip"
           },
@@ -217,8 +217,8 @@
           "Verificar informações de contrato"
         ],
 
-        "android": "https://play.google.com/store/apps/details?id=com.franet",
-        "ios": "https://apps.apple.com/br/app/franet/id1530131234"
+        "android": "https://play.google.com/store/apps/details?id=br.com.franet.appsgpfranet&pcampaignid=web_share",
+        "ios": "https://apps.apple.com/br/app/franet/id1400606917"
       },
 
       "support": {
