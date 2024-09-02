@@ -247,50 +247,6 @@
         "url": "https://wa.me/554335481768?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20os%20planos%20de%20tv%20por%20assinatura."
       },
 
-      "tvResources": [
-        {
-          "title": "Variedade Premium",
-          "description": "Ao assinar a Franet TV, você ganha acesso instantâneo a uma variedade de canais, filmes, séries e esportes ao vivo. Tudo o que você ama assistir, em um único lugar."
-        },
-
-        {
-          "title": "Experiência Personalizada",
-          "description": "Assuma o controle, escolha e assista de acordo com seus interesses, proporcionando uma experiência única."
-        },
-
-        {
-          "title": "Streaming sem Limites",
-          "description": "Assine Franet TV e desfrute de streaming de conteúdo sem se preocupar com limites de dados."
-        }
-      ],
-
-      "tvDetails": [
-        {
-          "title": "Preço após o 12º mês",
-          "description": "Do 13º mês em diante, há um acréscimo de R$ 20 no valor do plano de 400 Mega."
-        },
-
-        {
-          "title": "Taxa de instalação",
-          "description": "Nos 12 primeiros meses serão cobrados R$ 25,00 de Taxa de Adesão, totalizando R$ 300,00 ao fim do período."
-        },
-
-        {
-          "title": "Equipamento",
-          "description": "O modem Wi-Fi e o decodificador da TV serão entregues em comodato."
-        },
-
-        {
-          "title": "1 ano de fidelidade",
-          "description": "Caso cancele antes, haverá uma multa rescisória de R$ 1.500 no plano de 400 Mega e de R$ 2.000 no plano de 1 Giga proporcional ao restante do período. Conheça as ofertas sem fidelidade."
-        },
-
-        {
-          "title": "Reajuste anual",
-          "description": "O valor mensal da oferta poderá, a critério da Oi, ser reajustada anualmente de acordo com a variação positiva do IGP-DI ou índice geral que o substitua."
-        }
-      ],
-
       "movelCTA": {
         "url": "https://wa.me/554335481768?text=Ol%C3%A1!%20Gostaria%20de%20conhecer%20os%20planos%20de%20telefonia%20m%C3%B3vel."
       },
